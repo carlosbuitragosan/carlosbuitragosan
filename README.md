@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome)](https://git.io/typing-svg)
-
 Full-stack developer focused on Laravel and React.
-Experience building production-ready applications with authentication, APIs, and database integration.
+
+I build production-ready web applications with authentication, REST APIs, database integration, and deployment workflows.
 ***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
