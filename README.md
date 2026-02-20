@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome)](https://git.io/typing-svg)
 
-I've been teaching myself web development since 2021.
-
-💻 &nbsp;&nbsp;&nbsp;completed a 3-month bootcamp in Software Developoment with [Founders and Coders](https://github.com/foundersandcoders) in the summer of 2023 &nbsp; [See Learnings](https://github.com/carlosalbertobuitragosantamaria/portfolio) 👈
+Full-stack developer focused on Laravel and React.
+Experience building production-ready applications with authentication, APIs, and database integration.
 ***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
