@@ -1,4 +1,4 @@
-Full-stack developer focused on Laravel and React.
+#### Full-stack developer focused on Laravel and React.
 
 I build production-ready web applications with authentication, REST APIs, relational databases, and CI/CD deployment workflows.
 
