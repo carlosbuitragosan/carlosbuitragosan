@@ -1,6 +1,8 @@
 Full-stack developer focused on Laravel and React.
 
-I build production-ready web applications with authentication, REST APIs, database integration, and deployment workflows.
+I build production-ready web applications with authentication, REST APIs, relational databases, and CI/CD deployment workflows.
+
+Currently focused on clean architecture, maintainable code, and real-world project delivery.
 ***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
